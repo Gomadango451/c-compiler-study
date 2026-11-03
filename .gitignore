@@ -2,3 +2,7 @@
 *.s
 *.o
 hello
+9cc/9cc
+*.o
+*~
+tmp*
